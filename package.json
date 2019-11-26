@@ -1,6 +1,9 @@
 {
   "name": "ripemetricsproj",
   "version": "0.1.0",
+  "engines": {
+    "node": "11.12.0"
+  },
   "description": "Ripe Metrics take home project",
   "main": "server/index.js",
   "scripts": {

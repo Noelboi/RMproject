@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
-import Students from "/Users/totz/Desktop/ripemetrics/ripeMetricsProject/src/studentRows.jsx";
+import Students from "./studentRows.jsx";
 
 class App extends Component {
   constructor(props) {
